@@ -1,6 +1,8 @@
 package abstracts;
 
-interface Nameable {
+public interface Humanable {
     String getName();
+
     void setName(String name);
+    boolean isHurt();
 }

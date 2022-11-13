@@ -1,11 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e236d4f2-1fa0-4ae1-985d-4924eab9cee4" name="Changes" comment="" />
+    <list default="true" id="e236d4f2-1fa0-4ae1-985d-4924eab9cee4" name="Changes" comment="Changes in methods">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abstracts/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstracts/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abstracts/Humanable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstracts/Humanable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abstracts/Places.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstracts/Places.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abstracts/Things.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstracts/Things.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abstracts/Thingsable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstracts/Thingsable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/objects/Rope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/objects/Rope.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/objects/Shorties.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/objects/Shorties.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/objects/StrangePower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/objects/StrangePower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/objects/Wind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/objects/Wind.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/objects/Znayka.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/objects/Znayka.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2GfYgyZKW0OrpwnKF8AssSpSYwm" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -13,13 +42,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;Z:/IDEjava/Lab3&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.uml&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="Lab3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab3" />
+      <module name="Lab3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Lab3" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -28,8 +78,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666781224473</updated>
+      <workItem from="1666781226026" duration="2147000" />
+      <workItem from="1666992127191" duration="7000" />
+      <workItem from="1666992170924" duration="152000" />
+      <workItem from="1667140360723" duration="397000" />
+      <workItem from="1667140873189" duration="611000" />
+      <workItem from="1667155992146" duration="1794000" />
+      <workItem from="1667284740299" duration="10000" />
+      <workItem from="1667563365101" duration="629000" />
+      <workItem from="1667661197182" duration="6198000" />
+      <workItem from="1667732192550" duration="26316000" />
+      <workItem from="1668111108035" duration="24000" />
+      <workItem from="1668348489965" duration="4423000" />
+      <workItem from="1668354020600" duration="314000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -41,5 +107,13 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changes in methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes in methods" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
